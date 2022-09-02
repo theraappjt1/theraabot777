@@ -54,9 +54,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
+global.vcardowner = ['
+		     '] //ur owner number
+global.ownername = "ℜタタ" //ur owner name
+global.ytname = "YT: " //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
@@ -106,14 +107,14 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
+    admin: 'Riservato solo ad admin',
+    botAdmin: 'prima mettimi admin stronzo',
     owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
+    group: 'è solo pe i gruppi che minchia voi',
+    private: 'scrivime in privato se o voi usa',
+    bot: 'tu non sei un bot non puoi usarlo',
+    wait: 'sto caricando stronzo',
+    linkm: 'si almeno damme er link link?',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
