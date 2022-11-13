@@ -218,8 +218,7 @@ XeonBotInc.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                     xeonbody = `┌─❖
 
 Oh @${xeonName.split("@")[0]}
-Ci ha abbandonati
-verra inseguito da un gattino nucleare
+è uscito ricchione
       //if you copy the code value,
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
